@@ -2,7 +2,7 @@
 基于hoshinobot的mhw（怪物猎人世界）插件，功能还在慢慢写
 
 下载了放进modules就行，图片资源路径：（举例）C:\res\img\mhw\icon\
-给个链接，素材来源网络链接： https://pan.baidu.com/s/1NUaZCda3kdudkdmyxkI8Iw  提取码：32yy
+给个链接，素材来源网络 链接： https://pan.baidu.com/s/1NUaZCda3kdudkdmyxkI8Iw  提取码：32yy
 
 现有功能：
 
