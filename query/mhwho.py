@@ -25,7 +25,7 @@ async def mhwho(bot, ev: CQEvent):
         sp = 1
         name = name.strip("历战")
     #sp用来标志需要图标是否历战
-    print(sp)
+
     if not name:
         await bot.send(ev, '？')
         return  

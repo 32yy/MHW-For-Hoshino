@@ -1,10 +1,12 @@
 from hoshino import Service
 
 sv_help = '''
-这是mh的查询help
+mhw相关查询
+[xxx图标]怪物/武器图标
+[xxx怒后补正]怪物怒后补正
 '''.strip()
 
-sv = Service('mhw-query', help_=sv_help, bundle='mhw查询')
+sv = Service('mhw-query', help_=sv_help, bundle='mhw')
 
 from .mhwho import *
-from .dasha import *
+from .angry import *
